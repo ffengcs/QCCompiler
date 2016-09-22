@@ -1,2 +1,2 @@
-# FGCCompiler
-FengGe's simpl C Compiler
+# QCCompiler
+A Simpl C Compiler
